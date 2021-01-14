@@ -42,7 +42,9 @@ public class Contact {
 
             System.out.println("Message envoyé");
 
-        } catch (MessagingException e) {
+        	}
+        
+        catch (MessagingException e) {
             e.printStackTrace();
         }
     }
