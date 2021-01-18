@@ -40,7 +40,7 @@ public class Contact {
 
             Transport.send(message);
 
-            System.out.println("Message envoyé");
+            System.out.println("Message envoyÃ©");
 
         	}
         

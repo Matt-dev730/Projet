@@ -231,7 +231,7 @@ public class UtilisateurDAO {
             
             String mdpHash = (String) sb.toString();
 
-            System.out.println("Mot de passe (saisie clavier) : " + mp + " - Mot de passe haché en hexadécimal : " + mdpHash);
+            System.out.println("Mot de passe (saisie clavier) : " + mp + " - Mot de passe hachï¿½ en hexadÃ©cimal : " + mdpHash);
             
            
             pstmt = conn.prepareStatement("SELECT email, nom, prenom, motdepasse, phone FROM compteclient WHERE email = ?");
