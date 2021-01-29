@@ -6,7 +6,7 @@
  	<maven.compiler.target>1.8</maven.compiler.target>
   </properties>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>projetalichat</groupId>
+  <groupId>Projet</groupId>
   <artifactId>Projet</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
@@ -18,7 +18,7 @@
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>3.8.1</version>
-      <scope>test</scope>
+      <scope>projetalichat</scope>
       </dependency>
        <!-- https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api -->
       <dependency>
