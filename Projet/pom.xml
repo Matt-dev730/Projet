@@ -6,7 +6,7 @@
  	<maven.compiler.target>1.8</maven.compiler.target>
   </properties>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>afpa</groupId>
+  <groupId>projetalichat</groupId>
   <artifactId>Projet</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
