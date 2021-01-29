@@ -33,7 +33,7 @@ public class UtilisateurDAO {
 				System.out.println("Driver ok");
 			    //String url = "jdbc:mysql://127.0.0.1:3306/alichat?zeroDateTimeBehavior=CONVERT_TO_NULL&serverTimezone=UTC"; 
 				//conn = DriverManager.getConnection(url,"root","");
-				String url = "jdbc:mysql://mysql-matt-dev-730.alwaysdata.net:3306/matt-dev730_alichat?zeroDateTimeBehavior=CONVERT_TO_NULL&serverTimezone=UTC"; 
+				String url = "jdbc:mysql://mysql-matt-dev-730.alwaysdata.net:3306/matt-dev-730_alichat?zeroDateTimeBehavior=CONVERT_TO_NULL&serverTimezone=UTC"; 
 				conn = DriverManager.getConnection(url,"224336", "itachi-sama@123");
 				System.out.println("connexion ok");
 		  
