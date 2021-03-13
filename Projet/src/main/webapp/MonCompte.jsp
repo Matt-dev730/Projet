@@ -91,6 +91,7 @@
 			
 			<article>
 				
+				<h1>En construction</h1>
 				<c:forEach items="${list}" var="user"><tr>
 							
 							 	<td>${user.getNom()}</td>

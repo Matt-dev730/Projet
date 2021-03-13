@@ -162,7 +162,7 @@
 						</ul>
 				
 				</nav>
-				
+				<h1>En construction !</h1>
 					<ul id="grid">
 						
 						<li class="Mix_Comics"><img src="img\chats.jpg" width="240" height="160" alt=""></li>
